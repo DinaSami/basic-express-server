@@ -6,7 +6,7 @@
 
 [server-deploy-dev](https://dinakhaleel-basic-express.herokuapp.com/)
 
-[server-deploy-prod](https://basic-express-server-main.herokuapp.com/)
+[server-deploy-main](https://basic-express-server-main.herokuapp.com/)
 
 ### Github actions:
 
