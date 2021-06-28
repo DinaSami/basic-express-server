@@ -4,17 +4,17 @@
 
 ### Heroku applications :
 
-[server-deploy-dev]()
+[server-deploy-dev](https://dinakhaleel-basic-express.herokuapp.com/)
 
-[server-deploy-prod]()
+[server-deploy-prod](https://basic-express-server-main.herokuapp.com/)
 
 ### Github actions:
 
-[actions]()
+[actions](https://github.com/DinaSami/basic-express-server/actions)
 
 ### pull request:
 
-[PR]()
+[PR](https://github.com/DinaSami/basic-express-server/pull/1)
 
 ## Drawings:
 
